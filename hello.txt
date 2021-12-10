@@ -1,7 +1,7 @@
 Hello Gleejay! Hello git! v2
 Hello Gleejay! Hello git! v3
 Hello Gleejay! Hello git! v4
-Hello Gleejay! Hello git!
+Hello Gleejay! Hello git! hot-fix v5
 Hello Gleejay! Hello git!
 Hello Gleejay! Hello git!
 Hello Gleejay! Hello git!
